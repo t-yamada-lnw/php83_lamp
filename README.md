@@ -14,20 +14,21 @@
 ---
 
 ### フォルダ構成
-.
-├── db
-│   └── my.cnf
-├── web
-│   ├── html
-│   │   ├── default
-│   │   │   └── dist
-│   │   │       └── index.php
-│   ├── php
-│   │   └── php.ini
-│   └── org-apache-config.conf
-├── docker-compose.yml
-└── README.md
-
+```
+.  
+├── db  
+│   └── my.cnf  
+├── web  
+│   ├── html  
+│   │   ├── default  
+│   │   │   └── dist  
+│   │   │       └── index.php  
+│   ├── php  
+│   │   └── php.ini  
+│   └── org-apache-config.conf  
+├── docker-compose.yml  
+└── README.md  
+```
 **注**：
 主に永続化の為に使用する隠しフォルダ、隠しファイルは記載していません。
 
